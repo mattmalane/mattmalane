@@ -1,4 +1,4 @@
-### Hi there 👋 I am Matt.
+### Hi there 👋 I am Matthew.
 
 #### I am a full stack software engineer currently based in Southern California.
 
