@@ -3,9 +3,9 @@
 #### I am a full stack software engineer currently based in Southern California.
 
 #### Skills
-- **Frontend**: JavaScript, React, HTML, CSS, jQuery, Handlebars
-- **Backend**: Node.js, Express, Ruby, Golang, SQL, PostgreSQL, GraphQL, Sinatra
-- **Other**: Git, GitHub, Docker, Terraform, DigitalOcean (VPS), AWS (EC2, Fargate, ECS, ECR)
+- **Frontend**: Typescript, React, HTML, CSS, jQuery, Handlebars
+- **Backend**: Python/Fast Api, Node.js, Express, Ruby, Golang, SQL, PostgreSQL, GraphQL, Sinatra
+- **Other**: Git, GitHub, Docker, DigitalOcean (VPS), AWS
 
 #### Links
 
